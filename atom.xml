@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://remzolotykh.net</id>
+    <title>Rem Zolotykh&apos;s Blog</title>
+    <updated>2016-06-28T22:05:14Z</updated>
+    <author>
+        <name>Rem Zolotykh</name>
+        <email>rem@zolotykh.net</email>
+        <uri>http://remzolotykh.net</uri>
+    </author>
+    <link rel="alternate" href="http://remzolotykh.net"/>
+    <subtitle>Screencasts on web development</subtitle>
+    <rights>All rights reserved 2016, Rem Zolotykh</rights>
+    <generator>Feed for Node.js</generator>
+    <contributor>
+        <name>Rem Zolotykh</name>
+        <email>rem@zolotykh.net</email>
+    </contributor>
+    <entry>
+        <title type="html"><![CDATA[React & Redux #05. User Sign Up: Sign up form and its state]]></title>
+        <id>http://remzolotykh.net/react-and-redux-05-user-sign-up-form/</id>
+        <link href="http://remzolotykh.net/react-and-redux-05-user-sign-up-form/">
+        </link>
+        <updated>2016-06-27T17:40:32Z</updated>
+        <content type="html"><![CDATA[<p>The goal for this episode is very simple - create sign up form and manage its state.</p>
+<p>It’s quite a boring one but we need to get through it so we have everything prepared for cool stuff.</p>
+<p>Repository: <a href="https://github.com/Remchi/reddice">https://github.com/Remchi/reddice</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React & Redux #04. Project setup:  React router and basic navigation]]></title>
+        <id>http://remzolotykh.net/react-and-redux-04-project-setup-react-router-and-basic-navigation/</id>
+        <link href="http://remzolotykh.net/react-and-redux-04-project-setup-react-router-and-basic-navigation/">
+        </link>
+        <updated>2016-06-23T11:40:32Z</updated>
+        <content type="html"><![CDATA[<p>Goal for this episode is to setup react router and implement simple navigation between pages.</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React & Redux #03. Project setup: Hot reloading setup]]></title>
+        <id>http://remzolotykh.net/react-and-redux-03-project-setup-hot-reloading-setup/</id>
+        <link href="http://remzolotykh.net/react-and-redux-03-project-setup-hot-reloading-setup/">
+        </link>
+        <updated>2016-06-21T11:40:32Z</updated>
+        <content type="html"><![CDATA[<p>The goal of this episode is to configure hot reloading, so we can enjoy magic of not refreshing page manually and seeing changes right away. That’s pretty awesome.</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React & Redux #02. Project Setup: Render react component]]></title>
+        <id>http://remzolotykh.net/react-and-redux-02-project-setup-render-react-component/</id>
+        <link href="http://remzolotykh.net/react-and-redux-02-project-setup-render-react-component/">
+        </link>
+        <updated>2016-06-19T11:40:32Z</updated>
+        <content type="html"><![CDATA[<p>The goal for this episode is to render our first react component. For this we need install and setup react stuff into our project as well as webpack to bundle all our code together.</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React & Redux #01. Project Setup: Serve index.html with ExpressJS]]></title>
+        <id>http://remzolotykh.net/react-and-redux-01-project-setup-serve-index-with-expressjs/</id>
+        <link href="http://remzolotykh.net/react-and-redux-01-project-setup-serve-index-with-expressjs/">
+        </link>
+        <updated>2016-06-17T11:40:32Z</updated>
+        <content type="html"><![CDATA[<p>The goal for this episode is to serve index.html file with expressjs. And we want to use ES6.</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React & Redux #00. Introduction]]></title>
+        <id>http://remzolotykh.net/react-and-redux-00-introduction/</id>
+        <link href="http://remzolotykh.net/react-and-redux-00-introduction/">
+        </link>
+        <updated>2016-06-17T10:40:32Z</updated>
+        <content type="html"><![CDATA[<p>This is the opening of new series on React and Redux app development.</p>
+<p>Links:</p>
+<ul>
+<li>Cobalt2 Atom theme: <a href="https://github.com/wesbos/cobalt2-atom">https://github.com/wesbos/cobalt2-atom</a></li>
+<li>Getting Started with Redux by Dan Abramov: <a href="https://egghead.io/courses/getting-started-with-redux">https://egghead.io/courses/getting-started-with-redux</a></li>
+<li>Building React Applications with Idiomatic Redux by Dan Abramov: <a href="https://egghead.io/courses/building-react-applications-with-idiomatic-redux">https://egghead.io/courses/building-react-applications-with-idiomatic-redux</a></li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ember in Action #11. User Authentication with JWT]]></title>
+        <id>http://remzolotykh.net/ember-in-action-11-user-authentication-with-jwt/</id>
+        <link href="http://remzolotykh.net/ember-in-action-11-user-authentication-with-jwt/">
+        </link>
+        <updated>2015-08-01T10:40:32Z</updated>
+        <content type="html"><![CDATA[<p>In this episode we’ll implement user authentication with JWT (json web token).</p>
+<h3>Outline</h3>
+<ul>
+<li>Token authentication theory</li>
+<li>Login form</li>
+<li>Install <code>simple-auth</code> and <code>simple-auth-token</code></li>
+<li>Server side mock authentication</li>
+<li>Login / Logout</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ember in Action #10. Server-side Validations]]></title>
+        <id>http://remzolotykh.net/ember-in-action-10-server-side-validations/</id>
+        <link href="http://remzolotykh.net/ember-in-action-10-server-side-validations/">
+        </link>
+        <updated>2015-07-28T10:40:32Z</updated>
+        <content type="html"><![CDATA[<p>In this episode we’ll add server-side validation to our form. Also we’ll see how to extract common functions into separate files and improve client-side validation.</p>
+<h3>Outline</h3>
+<ul>
+<li>Implement server-side uniqueness validation for <code>new</code> and <code>edit</code> forms</li>
+<li>Extract common function into separate file</li>
+<li>Validate on blur in addition to on form submit</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ember in Action #09. Client-side Form Validation]]></title>
+        <id>http://remzolotykh.net/ember-in-action-09-client-side-form-validation/</id>
+        <link href="http://remzolotykh.net/ember-in-action-09-client-side-form-validation/">
+        </link>
+        <updated>2015-07-16T10:40:32Z</updated>
+        <content type="html"><![CDATA[<p>In this episode we’ll implement client-side form validation with inline validation messages.</p>
+<h3>Outline</h3>
+<ul>
+<li>Fix <code>books/new.js</code> route: use Ember Data record instead of plain JS object</li>
+<li>Book’s title client-side validation with inline validation messages</li>
+<li>Import <code>validator</code> npm package into Ember application</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ember in Action #08. Delete Books]]></title>
+        <id>http://remzolotykh.net/ember-in-action-08-delete-books/</id>
+        <link href="http://remzolotykh.net/ember-in-action-08-delete-books/">
+        </link>
+        <updated>2015-07-16T10:40:32Z</updated>
+        <content type="html"><![CDATA[<p>In this episode we’ll finish CRUD functionality of our application by implementing the last piece of it - delete books.</p>
+]]></content>
+    </entry>
+</feed>
